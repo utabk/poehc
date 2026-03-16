@@ -1,0 +1,3 @@
+[workspace]
+members = ["agent/core", "validator", "agent/desktop/src-tauri", "sdk/rust"]
+resolver = "2"

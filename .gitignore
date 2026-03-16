@@ -1,0 +1,33 @@
+# Rust
+target/
+Cargo.lock
+
+# Foundry
+contracts/cache/
+contracts/out/
+contracts/broadcast/
+
+# TS SDK build
+sdk/typescript/dist/
+
+# Node
+node_modules/
+.next/
+
+# Environment
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# ZK circuits build artifacts
+circuits/build/
+circuits/*.r1cs
+circuits/*.wasm
+circuits/*.sym
