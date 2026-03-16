@@ -1,4 +1,4 @@
-# PoEHC — Proof of Exclusive Human Commitment
+# PoEHC - Proof of Exclusive Human Commitment
 
 Right now, there is no way to cryptographically prove that a person dedicated their time exclusively to one task. Freelancers can secretly work for two clients at once. Remote employees can appear "at work" while doing something else. Every existing solution is either self-reported (easily faked) or surveillance-based (invasive).
 
